@@ -15,3 +15,6 @@ We are inviting local groups to set up a booth and host a hands-on STEM learning
  
 We will provide the space within the mall; you just need to bring your passion and your activity!
 If your group is interested in inspiring local youth and showcasing your work to the community, please let us know by July 30, 2026.
+
+**_The Project_**
+Design, Create and Code a turtlebot that can navigate through a maze. The turtlebot will be controlled by pre-set hand signals and will include basic obstacle avoidance. Additionally, I must design a user friendly interface that can be aesthetic yet simple and functional. Furthermore, I will code a Nao robot with basic conversational abilities so it is interacting with the user more, though this relies on more basic coding skills.
